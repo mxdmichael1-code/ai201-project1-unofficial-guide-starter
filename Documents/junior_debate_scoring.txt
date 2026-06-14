@@ -1,0 +1,204 @@
+JUNIOR_DEBATE_SCORING
+Document type: Judge training material
+Format: WSDA Junior Extemporaneous Debate
+Primary users: Junior debate judges
+Purpose: Explain Junior Debate judging criteria, score range, point calculation, ranking, and ballot expectations.
+
+SECTION 1: SCORING OVERVIEW
+
+Junior Debate is scored from 18 to 30 points.
+
+18 points is the base score.
+
+Judges should add points above 18 based on the debater's performance in the six evaluation criteria.
+
+The six evaluation criteria are:
+1. Analysis.
+2. Reasoning.
+3. Rebuttal.
+4. Cross Examination.
+5. Delivery.
+6. Overall Impact.
+
+Judges should score based on what the debater does in the round.
+
+SECTION 2: HOW TO ADD POINTS FROM 18
+
+Judges should begin from the base score of 18.
+
+For each of the six evaluation criteria, the judge may add points according to performance.
+
+If the debater's performance in a criterion is insufficient, add 0 points for that criterion.
+
+If the debater reaches an average level in a criterion, add 0.5 points for that criterion.
+
+If the debater is above average in a criterion, add 1 point for that criterion.
+
+If the debater is strong in a criterion, add 1.5 points for that criterion.
+
+If the debater is very strong and clearly stands out in a criterion, add 2 points for that criterion.
+
+Because there are six criteria and each criterion can add up to 2 points, the maximum score is 30.
+
+The scoring formula is:
+18 base points plus added points from the six criteria equals the final score.
+
+SECTION 3: CRITERION 1 - ANALYSIS
+
+Analysis evaluates whether the student explains the main issue of the topic.
+
+A strong debater should look at the issue from an objective angle.
+
+A strong debater should present arguments that have some impact.
+
+A strong debater should clearly explain their own arguments.
+
+Weak analysis may rely only on personal preference or unsupported opinion.
+
+For example, saying "I think cats are better than dogs because my father said so" is not persuasive analysis.
+
+Judges should ask:
+1. Did the debater identify the main issue?
+2. Did the debater explain the issue clearly?
+3. Did the argument have impact?
+4. Did the debater avoid relying only on personal opinion?
+
+SECTION 4: CRITERION 2 - REASONING
+
+Reasoning evaluates the student's logical support.
+
+Judges should consider whether the debater's explanation is logical.
+
+Judges should consider whether the speech connects ideas clearly.
+
+Judges should consider whether claims are supported by reasons.
+
+Strong reasoning makes it clear why the judge should believe the argument.
+
+Weak reasoning may jump from a claim to a conclusion without enough explanation.
+
+SECTION 5: CRITERION 3 - REBUTTAL
+
+Rebuttal evaluates whether the student effectively responds to the opponent's arguments.
+
+A strong rebuttal shows the judge why the opponent's argument is flawed.
+
+A debater may attack the opponent's assumption, logic, example, impact, or conclusion.
+
+A rebuttal should be specific.
+
+A weak rebuttal may ignore the opponent's main argument or only repeat the debater's own case.
+
+Judges should ask:
+1. Did the debater answer the opponent's main point?
+2. Was the response specific?
+3. Did the response explain why the opponent's argument is weak?
+4. Did the debater avoid missing important arguments?
+
+SECTION 6: CRITERION 4 - CROSS EXAMINATION
+
+Cross Examination evaluates the interaction between the two debaters during questioning.
+
+Judges should consider whether the debater asks and answers clearly, concisely, and politely.
+
+A strong question should help clarify the debate or challenge the opponent's reasoning.
+
+A strong answer should respond to the question and defend the debater's position.
+
+A debater should actively explain their own reasoning and effectively challenge the opponent's argument.
+
+A weak cross examination may be rude, unclear, evasive, too long, or unrelated to the main issues.
+
+Judges should also consider whether the debater keeps the correct role as questioner or answerer.
+
+SECTION 7: CRITERION 5 - DELIVERY
+
+Delivery evaluates the debater's speaking style.
+
+Judges should consider whether the debater's expression is clear, accurate, efficient, and not unnecessarily slow or repetitive.
+
+Strong delivery helps the judge understand the argument.
+
+Weak delivery may make the debate hard to follow even if the idea itself is reasonable.
+
+Delivery includes clarity, organization, pace, volume, fluency, confidence, and time control.
+
+Judges should not reward style alone if the argument has weak analysis or reasoning.
+
+SECTION 8: CRITERION 6 - OVERALL IMPACT
+
+Overall Impact evaluates the persuasive effect of the whole debate performance.
+
+Judges should consider whether the debater's performance is convincing and influential overall.
+
+A strong overall impact means the debater gives the judge a clear reason to prefer their side.
+
+Overall impact may come from strong analysis, clear reasoning, effective rebuttal, good cross examination, and persuasive delivery working together.
+
+A weak overall impact means the performance does not leave a clear reason to vote for that side.
+
+SECTION 9: EVIDENCE AND SCORING
+
+Use of evidence is allowed when the tournament setting permits it.
+
+However, evidence is not the key evaluating factor for Junior Debate.
+
+Because Junior Debate uses limited preparation time, judges should not decide the round mainly based on who has more evidence.
+
+Judges should focus more on explanation, logic, interaction, rebuttal, delivery, and overall persuasiveness.
+
+A debater who uses evidence should still explain what the evidence proves and why it matters.
+
+A debater who does not use evidence can still score well if their analysis, reasoning, rebuttal, cross examination, delivery, and overall impact are strong.
+
+SECTION 10: RANKING AND DECISION
+
+Judges should decide which debater performed better in the round.
+
+Judges should use the six evaluation criteria to guide both scoring and ranking.
+
+The higher-scoring debater should normally be ranked ahead.
+
+Judges should avoid score-rank inconsistency (no lower point wins).
+
+Judges should not decide based only on speaking confidence, personal agreement with the topic, or evidence quantity.
+
+Judges should not introduce their own arguments or outside knowledge into the decision.
+
+SECTION 11: BALLOT EXPECTATIONS
+
+The Junior Debate ballot should include the topic, competitor names, competitor numbers, score, rank, and comments according to the tournament system.
+
+Judges should record competitor information carefully.
+
+Judges should make sure the score reflects the six criteria.
+
+Judges should make sure the final score is calculated from 18 plus added points for the criteria.
+
+Comments should explain the main strengths and weaknesses of the debater's performance.
+
+Useful comments may mention analysis, reasoning, rebuttal, cross examination, delivery, or overall impact.
+
+SECTION 12: QUICK REFERENCE
+
+Junior Debate scores range from 18 to 30.
+
+18 is the base score.
+
+Judges add points based on six evaluation criteria.
+
+The six criteria are analysis, reasoning, rebuttal, cross examination, delivery, and overall impact.
+
+For each criterion, insufficient performance adds 0 points.
+
+Average performance adds 0.5 points.
+
+Above-average performance adds 1 point.
+
+Strong performance adds 1.5 points.
+
+Very strong and outstanding performance adds 2 points.
+
+Evidence use is allowed when permitted, but it is not the key deciding factor.
+
+Judges should focus on analysis, reasoning, rebuttal, cross examination, delivery, and overall impact.

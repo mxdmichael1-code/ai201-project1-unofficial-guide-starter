@@ -1,0 +1,122 @@
+ORIGINAL_ORATORY_COMPETITION_RULES
+Document type: Judge training material
+Format: Original Oratory (OO)
+Primary users: Speech judges
+Purpose: Explain Original Oratory competition rules on timing, manuscript use, props, generative AI, and academic integrity.
+
+SECTION 1: OVERTIME RULE
+
+In Original Oratory, the junior division speech time limit is 5 minutes.
+
+The senior division speech time limit is 10 minutes.
+
+All divisions have an additional 30-second grace period.
+
+Speakers should keep their speech within the official time limit and the additional 30-second grace period.
+
+If a speech exceeds the additional 30-second grace period, the competitor may continue their speech (the judge should not interrupt the speaker within reasonable overtime period) but can not be ranked first in the group.
+
+Each round uses a timer, and the judge should time speakers' speech time (count-up timing) and record the time on the ballot after each speech.
+
+There is no minimum speech time.
+
+When junior and senior divisions are combined, all rounds use the longest 10-minute time limit.
+
+A shorter speech should not be penalized only because it is shorter than 10 minutes.
+
+Judges should evaluate whether the speech is effective, not simply whether it is long.
+
+SECTION 2: MANUSCRIPT AND MEMORIZATION RULE
+
+Original Oratory speeches are recommended to be delivered from memory.
+
+A speech that is not delivered from memory may affect the judge's direct impression of the speaker.
+
+Because memorization affects presentation quality, a non-memorized speech may affect the judge's score.
+
+Judges should not treat manuscript use as an automatic disqualification but may slightly downgrade the speaker's performance and write it as feedback in the ballot.
+
+Judges should consider how the use of notes or a manuscript affects delivery, eye contact, fluency, audience connection, and overall performance.
+
+SECTION 3: PROP AND ASSISTIVE DEVICE RULE
+
+Speakers may not use assistive equipment or tools during the speech.
+
+Prohibited items include but are not limited to:
+1. PowerPoint slides;
+2. music;
+3. video;
+4. physical props;
+5. other presentation tools or supporting devices.
+
+Original Oratory should be evaluated based on the speaker's speech content and delivery, not on external presentation materials.
+
+Judges should not reward a speaker for using prohibited props or presentation tools.
+
+If a judge is unsure whether something counts as a prohibited tool, the judge should report the issue to tournament staff or the tabroom.
+
+SECTION 4: GENERATIVE AI USE
+
+In Original Oratory, students are prohibited from directly quoting text from generative AI sources.
+
+Students are also prohibited from rewriting or paraphrasing text from generative AI sources as part of their speech.
+
+Generative AI may not be used as a cited source.
+
+One exception applies when a student gives a speech about artificial intelligence. In that situation, the student may quote AI-generated content to support a point about artificial intelligence.
+
+Students may use generative AI to help find articles, ideas, or sources.
+
+However, any quoted or paraphrased evidence must have an original source that can be provided if requested.
+
+Judges should distinguish between using AI to locate sources and using AI as the source of speech text.
+
+If a judge has a serious concern about AI misuse, the judge should report the concern to tournament staff or tabroom instead of directly accusing the student during the round.
+
+SECTION 5: ACADEMIC INTEGRITY RULE
+
+Academic misconduct means behavior by a competitor or coach that violates accepted academic standards or academic honesty during participation in WSDA Original Oratory.
+
+Academic misconduct threatens the fairness of the tournament and the intellectual property of original works.
+
+To protect academic integrity and tournament fairness, all Original Oratory competitors must cooperate with the committee if asked to submit their speech manuscripts for review.
+
+The manuscript submitted by the competitor must match the content performed in the round.
+
+A competitor should not submit a different version that does not reflect the actual speech used in competition.
+
+Judges should not conduct their own investigation during the round unless instructed by tournament staff.
+
+If a judge has a concern about plagiarism, AI misuse, manuscript mismatch, or other academic integrity issues, the judge should report it to tournament staff or tabroom.
+
+SECTION 6: QUICK REFERENCE
+
+Junior division time limit is 5 minutes plus a 30-second grace period.
+
+Senior division time limit is 10 minutes plus a 30-second grace period.
+
+If a speaker exceeds the grace period, the speaker may not be ranked first in the group.
+
+There is no minimum speech time.
+
+If junior and senior divisions are combined, the round uses the longest 10-minute limit.
+
+A shorter speech should not be penalized simply for being shorter.
+
+Original Oratory is recommended to be delivered from memory.
+
+A non-memorized speech may affect the judge's impression and score.
+
+Speakers may not use PowerPoint, music, video, props, or other assistive tools.
+
+Students may not directly quote or paraphrase generative AI text.
+
+Generative AI may not be cited as a source.
+
+Generative AI may be used to help locate articles, ideas, or sources.
+
+Quoted or paraphrased evidence must have an original source available.
+
+Competitors must cooperate with manuscript review if required.
+
+The submitted manuscript must match the speech performed in the round.

@@ -1,0 +1,196 @@
+PF_SPEECH_ROLES_&_EXPECTATIONS
+Document type: Judge training material
+Format: Public Forum Debate (PF)
+Primary users: New and intermediate debate judges
+Purpose: Explain the role of each PF speech, what debaters are expected to do in that speech, and what judges should track.
+
+SECTION 1: OVERVIEW OF SPEECH ROLES
+
+Each PF speech has a different role. The constructive speeches build the original cases. Crossfire periods clarify and test arguments. Rebuttal speeches answer the opponent's case. Summary speeches narrow the debate. Final focus speeches explain the final voting reasons.
+
+Judges should not treat every speech as doing the same job. A judge should evaluate whether each team uses each speech for its proper purpose.
+
+Judges should also track whether arguments are carried through the round. An argument is stronger when it is introduced, answered, defended, extended, and compared. An argument is weaker if it disappears from later speeches.
+
+SECTION 2: CONSTRUCTIVE SPEECHES
+
+Each constructive speech is 4 minutes.
+
+The first constructive is given by the first speaker of the first-speaking team. The second constructive is given by the first speaker of the second-speaking team.
+
+The role of the constructive speech is to present the team's main case. A case usually includes claims, warrants, evidence, impacts, and sometimes a framework or weighing mechanism.
+
+A claim is the main point the team wants to prove. A warrant is the reasoning that explains why the claim is true. Evidence supports the claim or warrant. An impact explains why the argument matters in the debate.
+
+Judges should listen for the team's main contentions. A contention is a major argument in the case. Judges should write down the title or short label of each contention and the main reasoning behind it.
+
+Judges should also record important evidence. Judges do not need to copy every statistic word for word, but they should write enough to understand what the evidence was supposed to prove.
+
+The constructive speech is where the team builds its starting position. However, judges should not decide the round based only on constructive speeches. Later speeches matter because teams must answer, defend, narrow, and compare arguments.
+
+SECTION 3: WHAT JUDGES SHOULD TRACK IN CONSTRUCTIVES
+
+During constructive speeches, judges should track:
+1. the team's side, affirmative or negative;
+2. each major contention;
+3. the claim of each contention;
+4. the warrant or explanation for each contention;
+5. the evidence used to support each contention;
+6. the impact or reason the argument matters;
+7. any framework, weighing standard, or definition introduced by the team.
+
+Judges should not automatically accept an argument just because it has evidence. A team still needs to explain how the evidence supports the claim and why the argument matters.
+
+Judges should not reject an argument just because they personally disagree with it. The judge evaluates the debating in the room, not the judge's personal opinion about the topic.
+
+SECTION 4: FIRST CROSSFIRE
+
+The first crossfire is 3 minutes. It happens after both constructive speeches. The first speakers from both teams participate.
+
+The first speaker of the first-speaking team begins the first crossfire.
+
+The role of the first crossfire is to clarify the constructive arguments, test evidence, expose weaknesses, and prepare later responses.
+
+Crossfire is interactive. Debaters may ask questions, answer questions, challenge assumptions, or clarify what was said earlier.
+
+Judges should listen for concessions. A concession happens when a debater agrees with or fails to dispute an important point raised by the opponent. However, a concession in crossfire usually becomes more important if it is brought up again in a later speech.
+
+Judges should not usually vote on an argument that appears only in crossfire and is never extended or explained in a later speech. Crossfire can clarify the debate, but speeches are where arguments should be developed for the ballot.
+
+SECTION 5: REBUTTAL SPEECHES
+
+Each rebuttal speech is 4 minutes.
+
+The first rebuttal is given by the second speaker of the first-speaking team. The second rebuttal is given by the second speaker of the second-speaking team.
+
+The role of rebuttal is to answer the opposing team's constructive case. Rebuttal should identify the opponent's arguments and explain why those arguments are wrong, insufficient, unsupported, outweighed, or not important enough to decide the round.
+
+A rebuttal may attack:
+1. the opponent's claim;
+2. the reasoning behind the claim;
+3. the evidence used for the claim;
+4. the impact of the claim;
+5. the link between the claim and the impact;
+6. the opponent's framework or weighing mechanism.
+
+Judges should track which arguments receive answers and which arguments are dropped. A dropped argument is an argument that the opposing team does not respond to when it had a chance to do so.
+
+Judges should not create missing responses for a team. If a team fails to answer an argument, the judge should not invent an answer on that team's behalf.
+
+SECTION 6: WHAT JUDGES SHOULD TRACK IN REBUTTALS
+
+During rebuttal speeches, judges should track:
+1. which of the opponent's contentions are attacked;
+2. what specific response is made to each contention;
+3. whether the response answers the claim, warrant, evidence, impact, or weighing;
+4. whether the rebuttal also defends the speaker's own case;
+5. whether any argument is left unanswered;
+6. whether the response is explained clearly enough to matter.
+
+A short label without explanation is usually not enough. For example, saying "their evidence is bad" is weaker than explaining why the evidence is outdated, not comparative, not about the topic, or not connected to the claim.
+
+Judges should also track whether the second-speaking team answers the first-speaking team's rebuttal if the format or tournament expectation requires frontlining. Frontlining means responding to attacks against one's own case.
+
+SECTION 7: SECOND CROSSFIRE
+
+The second crossfire is 3 minutes. It happens after both rebuttal speeches. The second speakers from both teams participate.
+
+The second speaker of the first-speaking team begins the second crossfire.
+
+The role of the second crossfire is to clarify the clash created in rebuttal. Debaters may ask about dropped arguments, evidence comparisons, contradictions, or impact weighing.
+
+Judges should listen for whether debaters can explain their own arguments under pressure. Judges should also listen for concessions or contradictions.
+
+However, judges should again be careful with crossfire-only material. If a team wants a crossfire point to decide the round, that team should normally explain it in a later speech.
+
+SECTION 8: SUMMARY SPEECHES
+
+Each summary speech is 3 minutes.
+
+The first summary is given by the first speaker of the first-speaking team. The second summary is given by the first speaker of the second-speaking team.
+
+The role of summary is to narrow the round. Debaters should not try to repeat every argument from the entire debate. They should choose the most important arguments and explain why those arguments should matter for the decision.
+
+A strong summary usually does four things:
+1. extends the team's most important offensive arguments;
+2. answers the opponent's most important responses;
+3. explains why the team's arguments still stand;
+4. begins comparing the team's impacts against the opponent's impacts.
+
+To extend an argument, a debater should do more than mention it. The debater should explain the claim, the reason it remains true, and why it matters.
+
+Judges should pay close attention to summary because it shows which arguments the team is still going for. If an argument disappears from summary, judges may treat it as less central to the final decision.
+
+SECTION 9: WHAT JUDGES SHOULD TRACK IN SUMMARIES
+
+During summary speeches, judges should track:
+1. which arguments the team chooses to continue;
+2. which arguments the team stops going for;
+3. whether the team answers important rebuttal responses;
+4. whether the team explains why its argument still matters;
+5. whether the team begins weighing against the opponent's arguments.
+
+Summary speeches often determine the shape of the final decision. A team that tries to go for too many arguments may fail to explain any of them well. A team that narrows clearly may make the judge's decision easier.
+
+Judges should not give full weight to an argument simply because it was in constructive if it was not properly extended later. The later speeches matter for showing which arguments remain alive in the round.
+
+SECTION 10: GRAND CROSSFIRE
+
+Grand crossfire is 3 minutes. All debaters may participate.
+
+A debater from the first-speaking team begins grand crossfire. After that, both teams may exchange questions and answers.
+
+The role of grand crossfire is to clarify the most important remaining disagreements before final focus. Debaters may ask about impact comparison, evidence disputes, dropped arguments, or final voting issues.
+
+Judges should listen for important concessions or contradictions. Judges should also pay attention to whether debaters understand the main clash of the round.
+
+Grand crossfire should not replace final focus. If a point is important enough to decide the round, the team should make it clear in final focus or another speech.
+
+SECTION 11: FINAL FOCUS SPEECHES
+
+Each final focus speech is 2 minutes.
+
+The first final focus is given by the second speaker of the first-speaking team. The second final focus is given by the second speaker of the second-speaking team.
+
+Final focus is the last speech for each team. The role of final focus is to tell the judge exactly why that team should win.
+
+Final focus should be narrow, comparative, and focused on voting issues. A voting issue is a reason the judge should vote for one side.
+
+A strong final focus usually answers:
+1. What is the most important issue in the round?
+2. Which side wins that issue?
+3. Why does that issue matter more than the opponent's best argument?
+4. Why does this justify voting for the team?
+
+Judges should be cautious about new arguments in final focus. Final focus should rely on arguments already developed earlier in the round. New explanations that clarify existing arguments may be acceptable, but brand-new independent arguments should usually receive little or no weight.
+
+SECTION 12: WHAT JUDGES SHOULD TRACK IN FINAL FOCUS
+
+During final focus, judges should track:
+1. the team's final voting issues;
+2. whether those voting issues were present earlier in the debate;
+3. how the team compares its arguments against the opponent's arguments;
+4. whether the team explains impact weighing;
+5. whether the team gives a clear reason to vote for its side.
+
+Judges should compare the final focus speeches with the rest of the flow. A final focus argument is stronger when it is connected to the constructive, defended in rebuttal or summary, and clearly weighed at the end.
+
+Judges should not allow final focus to rewrite the entire debate. If a team suddenly introduces a new argument in final focus, the opposing team has little or no chance to respond.
+
+SECTION 13: QUICK SPEECH ROLE SUMMARY
+
+Constructive speeches build the original case.
+
+First crossfire clarifies and tests the constructive arguments.
+
+Rebuttal speeches answer the opponent's case and may defend the speaker's own case.
+
+Second crossfire clarifies the clash after rebuttal.
+
+Summary speeches narrow the debate and extend the most important issues.
+
+Grand crossfire clarifies the remaining major disagreements.
+
+Final focus speeches explain the final voting reasons.
+
+Judges should evaluate whether teams use each speech for its proper function.

@@ -207,9 +207,9 @@ This means the answer box gives the model’s response, and the “Retrieved fro
 ---
 ## Retrieval test results
 
-================================================================================
+
 QUERY: What should I do if I suspect a student is using external help or AI during a round?
-================================================================================
+
 
 ---
 Source: oo_competition_rules.txt
@@ -247,9 +247,8 @@ Debaters may not message coaches, parents, teammates outside the round, other st
 
 Debaters may not receive outside strategic advice, arguments, evidence, translations, or responses during the round.
 
-================================================================================
 QUERY: What should I do during evidence checking in PF?
-================================================================================
+
 
 ---
 Source: pf_special_rules_&_reminders.txt
@@ -289,9 +288,8 @@ Judges should distinguish between allowed evidence searching and prohibited outs
 
 A judge should continue evaluating the round based on the arguments made unless tournament staff gives a different instruction.
 
-================================================================================
+
 QUERY: What is the procedure for Junior Debate?
-================================================================================
 
 ---
 Source: junior_debate_format_and_rules.txt
@@ -356,7 +354,7 @@ SOURCES:
 - junior_debate_format_and_rules.txt — junior_debate_format_and_rules_27
 - junior_debate_format_and_rules.txt — junior_debate_format_and_rules_15
 
-================================================================================
+
 QUESTION: What should I do if a student uses AI during the round?
 
 ANSWER:
@@ -367,7 +365,6 @@ SOURCES:
 - pf_special_rules_&_reminders.txt — pf_special_rules_&_reminders_27
 - pf_special_rules_&_reminders.txt — pf_special_rules_&_reminders_6
 
-================================================================================
 QUESTION: What is the best strategy to win a PF round?
 
 ANSWER:
@@ -387,90 +384,11 @@ SOURCES:
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | 
-Question: In Junior Debate, what should the judge do if debaters enter the room and have not received the topic yet?
-Expected Answer: 
-
-The judge should confirm both debaters are in the correct room and know their assigned sides, release the topic as  instructed by the official WeChat group or tournament communication, start a 15-minute preparation timer, and begin the round when preparation time ends.
-
-System Response:
-
-If debaters enter the room and have not received the topic yet, the judge should: 
-1. Confirm that both debaters are in the correct room.
-2. Confirm which debater is pro and which debater is con.
-3. Release the debate topic exactly as instructed.
-4. Make sure both debaters understand the topic and know which side they are debating.
-5. Start a 15-minute timer for preparation.
-6. Begin the round after the 15-minute preparation time is over.
-
-Retrieval Quality: relevant
-Response Accuracy: accurate
-
-
-
-
-
-| 2 |
-Question: What should I do if I suspect a student is using external help or AI during a round?
-Expected Answer:
-The judge should report the concern to the tabroom or tournament staff. The judge should not directly accuse the student, inspect private messages, stop the round, or make a final misconduct ruling alone unless instructed. Searching for evidence online may be allowed, but using external help or AI to generate arguments, speeches, responses, or strategy is not allowed.
-
-System Response:
-
-If you suspect a student is using external help or AI during a round, you should report the concern to the tournament staff or tabroom instead of directly accusing the student during the round.
-
-Retrieval Quality: relevant
-Response Accuracy: accurate
-
-
-| 3 |
-Question: What should I do during evidence checking in PF?
-Expected Answer: 
-
-Evidence checks should happen after a speech ends, not during a speech. The team providing evidence has 1 minute of free time to find and provide the evidence. If they need more time, they may use their own prep time. After the evidence is provided, the checking team’s prep time begins if they continue reviewing it. Evidence issues must be argued in a speech to matter on the ballot, and failure to find evidence does not automatically prove the argument false.
-
-System Response:
-
-During evidence checking in PF, you should only review the evidence. You should not use the evidence check period to prepare new arguments, discuss strategy, or communicate about unrelated issues. After the team providing the evidence gives it to the checking team, the providing team should not take additional actions while the checking team reviews the evidence.
-
-Retrieval Quality: relevant
-Response Accuracy: partially accurate
-
-
-| 4 |
-Question: What is the procedure for Junior Debate?
-Expected Answer: 
-Junior Debate is one pro debater against one con debater. The pro side always speaks first. If debaters already prepared separately, the judge should confirm the room, topic, and sides, then start the debate. If they have not received the topic, the judge should release the topic as instructed, confirm sides, start a 15-minute prep timer, and begin the round when prep time ends. The round order includes constructive speeches, cross examination, mandatory prep time, rebuttals, mandatory prep time, and final focus speeches.
-
-System Response:
-
-The procedure for Junior Debate is as follows: 
-
-1. Sides (pro and con) are randomly assigned by the system.
-2. The pro debater always speaks first.
-3. If debaters have already prepared, confirm sides and start the debate.
-4. If debaters haven't received the topic, release the topic, confirm sides, and provide 15 minutes of preparation time before starting the round.
-5. During the round, mandatory prep time of 1 minute is allowed before rebuttals and 1 minute before final focus.
-6. The final focus should not include new arguments.
-7. The round typically lasts 15 to 20 minutes. 
-
-Judges should focus on evaluation factors such as analysis, reasoning, rebuttal, cross-examination, delivery, and overall impact, rather than evidence as the main deciding factor.
-
-Retrieval Quality: relevant
-Response Accuracy: partially accurate
-
-
-| 5 |
-Question: A student wants to leave the room after finishing their speech. Is that allowed?
-Expected Answer:
- No, not normally. In Original Oratory, after finishing their own speech, the competitor should stay and listen to the other speakers in the group. Competitors may leave only after all speakers have finished and the judge gives permission or tournament procedure allows dismissal.
-
-System Response:
-
-No, the student is not allowed to leave the room immediately after finishing their speech. According to the document, "A competitor should not leave immediately after giving the speech." and "All competitors may leave only after all speeches in the group have finished and the judge gives permission or tournament procedure allows dismissal." Judges are also instructed to remind competitors to remain in the room if they try to leave early.
-
-Retrieval Quality: relevant
-Response Accuracy: accurate
+| 1 | In Junior Debate, what should the judge do if debaters enter the room and have not received the topic yet?|The judge should confirm both debaters are in the correct room and know their assigned sides, release the topic as  instructed by the official WeChat group or tournament communication, start a 15-minute preparation timer, and begin the round when preparation time ends.|If debaters enter the room and have not received the topic yet, the judge should: 1. Confirm that both debaters are in the correct room. 2. Confirm which debater is pro and which debater is con. 3. Release the debate topic exactly as instructed. 4. Make sure both debaters understand the topic and know which side they are debating. 5. Start a 15-minute timer for preparation. 6. Begin the round after the 15-minute preparation time is over.|relevant|accurate|
+| 2 |What should I do if I suspect a student is using external help or AI during a round?|The judge should report the concern to the tabroom or tournament staff. The judge should not directly accuse the student, inspect private messages, stop the round, or make a final misconduct ruling alone unless instructed. Searching for evidence online may be allowed, but using external help or AI to generate arguments, speeches, responses, or strategy is not allowed.|If you suspect a student is using external help or AI during a round, you should report the concern to the tournament staff or tabroom instead of directly accusing the student during the round.|relevant|accurate|
+| 3 | What should I do during evidence checking in PF?|Evidence checks should happen after a speech ends, not during a speech. The team providing evidence has 1 minute of free time to find and provide the evidence. If they need more time, they may use their own prep time. After the evidence is provided, the checking team’s prep time begins if they continue reviewing it. Evidence issues must be argued in a speech to matter on the ballot, and failure to find evidence does not automatically prove the argument false.|During evidence checking in PF, you should only review the evidence. You should not use the evidence check period to prepare new arguments, discuss strategy, or communicate about unrelated issues. After the team providing the evidence gives it to the checking team, the providing team should not take additional actions while the checking team reviews the evidence.|relevant|partially accurate|
+| 4 |What is the procedure for Junior Debate?|Junior Debate is one pro debater against one con debater. The pro side always speaks first. If debaters already prepared separately, the judge should confirm the room, topic, and sides, then start the debate. If they have not received the topic, the judge should release the topic as instructed, confirm sides, start a 15-minute prep timer, and begin the round when prep time ends. The speech order is: Pro Constructive — 2 minutes, Cross Examination of Pro by Con — 1 minute, Con Constructive — 2 minutes, Cross Examination of Con by Pro — 1 minute, mandatory prep time — 1 minute, Pro Rebuttal — 2 minutes, Con Rebuttal — 2 minutes, mandatory prep time — 1 minute, Pro Final Focus — 2 minutes, and Con Final Focus — 2 minutes.|The procedure for Junior Debate is as follows: 1. Sides (pro and con) are randomly assigned by the system. 2. The pro debater always speaks first. 3. If debaters have already prepared, confirm sides and start the debate. 4. If debaters haven't received the topic, release the topic, confirm sides, and provide 15 minutes of preparation time before starting the round. 5. During the round, mandatory prep time of 1 minute is allowed before rebuttals and 1 minute before final focus. 6. The final focus should not include new arguments. 7. The round typically lasts 15 to 20 minutes. Judges should focus on evaluation factors such as analysis, reasoning, rebuttal, cross-examination, delivery, and overall impact, rather than evidence as the main deciding factor.|relevant|partially accurate|
+| 5 | A student wants to leave the room after finishing their speech. Is that allowed?|No, not normally. In Original Oratory, after finishing their own speech, the competitor should stay and listen to the other speakers in the group. Competitors may leave only after all speakers have finished and the judge gives permission or tournament procedure allows dismissal.|No, the student is not allowed to leave the room immediately after finishing their speech. According to the document, "A competitor should not leave immediately after giving the speech." and "All competitors may leave only after all speeches in the group have finished and the judge gives permission or tournament procedure allows dismissal." Judges are also instructed to remind competitors to remain in the room if they try to leave early.|relevant|accurate|
 
 ---
 
